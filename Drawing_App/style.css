@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+ 
+}
+
+canvas {
+  display: block;
+}
+
+
+button,p{
+  margin-left: 50px;
+  margin-bottom: 5px;
+}
+
+.Clear-btn
+{
+
+}
+
